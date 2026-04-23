@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="120" fill="#111110"/>
+  <rect x="140" y="160" width="232" height="4" rx="2" fill="#3D5C3B"/>
+  <rect x="140" y="200" width="180" height="4" rx="2" fill="#7DA87A"/>
+  <rect x="140" y="240" width="200" height="4" rx="2" fill="#3D5C3B"/>
+  <rect x="140" y="280" width="150" height="4" rx="2" fill="#7DA87A"/>
+  <rect x="140" y="320" width="232" height="4" rx="2" fill="#3D5C3B"/>
+  <circle cx="340" cy="360" r="60" fill="#1F1F1D" stroke="#3D5C3B" stroke-width="2"/>
+  <text x="340" y="373" font-family="serif" font-size="44" fill="#7DA87A" text-anchor="middle">✦</text>
+</svg>
